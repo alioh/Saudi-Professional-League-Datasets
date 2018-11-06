@@ -1,0 +1,133 @@
+matchNo,Round,Date,Time,Team1,Team2,Score1,Score2
+1,1,19.08.2009,20:45,Al Qadisiya,Al-Hilal,1,2
+2,1,19.08.2009,20:45,Al Wehda,Al-Ettifaq,2,2
+3,1,19.08.2009,20:45,Najran,Al-Shabab,1,3
+4,1,18.08.2009,20:45,Al Ahli SC,Al-Raed,1,0
+5,1,18.08.2009,20:45,Al-Fateh,Al-Ittihad FC,1,2
+6,3,22.08.2009,22:15,Al-Raed,Al-Ittihad FC,0,2
+7,2,26.08.2009,22:15,Al-Hilal,Najran,5,0
+8,2,26.08.2009,22:15,Al-Ittihad FC,Al Qadisiya,7,1
+9,2,26.08.2009,22:15,Al-Raed,Al-Fateh,2,1
+10,2,25.08.2009,22:15,Al-Ettifaq,Al-Nassr,1,1
+11,2,25.08.2009,22:15,Al-Shabab,Al Wehda,2,2
+12,3,25.09.2009,20:10,Al Ahli SC,Al-Ettifaq,2,0
+13,3,25.09.2009,20:10,Al-Fateh,Al-Hazem,1,1
+14,3,24.09.2009,20:10,Al Wehda,Al-Hilal,1,2
+15,3,24.09.2009,20:10,Al-Nassr,Al-Shabab,0,2
+16,3,24.09.2009,20:10,Najran,Al Qadisiya,0,0
+17,4,30.09.2009,20:05,Al-Ettifaq,Al-Fateh,0,2
+18,4,30.09.2009,20:05,Al-Hazem,Al-Raed,2,1
+19,4,30.09.2009,20:05,Al-Shabab,Al Ahli SC,2,1
+20,4,29.09.2009,20:05,Al Qadisiya,Al Wehda,1,0
+21,4,29.09.2009,20:05,Al-Hilal,Al-Nassr,2,2
+22,5,18.10.2009,19:50,Al Ahli SC,Al-Hilal,1,2
+23,5,18.10.2009,19:50,Al Wehda,Najran,2,0
+24,5,18.10.2009,19:50,Al-Fateh,Al-Shabab,2,1
+25,5,05.10.2009,19:50,Al-Nassr,Al Qadisiya,3,0
+26,5,04.10.2009,19:50,Al-Hazem,Al-Ittihad FC,1,2
+27,6,23.10.2009,19:45,Al Qadisiya,Al Ahli SC,1,2
+28,6,23.10.2009,19:45,Al-Ettifaq,Al-Hazem,2,3
+29,6,23.10.2009,19:45,Al-Hilal,Al-Fateh,5,1
+30,6,23.10.2009,19:45,Najran,Al-Nassr,1,1
+31,6,22.10.2009,19:45,Al-Shabab,Al-Raed,2,1
+32,7,28.10.2009,19:45,Al Ahli SC,Najran,0,1
+33,7,28.10.2009,19:45,Al-Fateh,Al Qadisiya,5,0
+34,7,28.10.2009,19:45,Al-Hazem,Al-Shabab,1,2
+35,7,28.10.2009,19:45,Al-Raed,Al-Hilal,0,2
+36,8,03.11.2009,19:40,Al Wehda,Al Ahli SC,1,1
+37,8,03.11.2009,19:40,Al-Shabab,Al-Ettifaq,4,1
+38,8,02.11.2009,19:40,Al Qadisiya,Al-Raed,0,0
+39,8,02.11.2009,19:40,Al-Hilal,Al-Hazem,4,0
+40,8,02.11.2009,19:40,Najran,Al-Fateh,1,1
+41,4,18.11.2009,19:35,Al-Ittihad FC,Najran,3,1
+42,9,23.11.2009,19:35,Al-Raed,Najran,2,2
+43,9,23.11.2009,19:35,Al-Shabab,Al-Ittihad FC,1,0
+44,9,22.11.2009,19:35,Al-Hazem,Al Qadisiya,1,1
+45,9,21.11.2009,19:35,Al Ahli SC,Al-Nassr,3,3
+46,9,21.11.2009,19:35,Al-Ettifaq,Al-Hilal,0,2
+47,9,21.11.2009,19:35,Al-Fateh,Al Wehda,0,0
+48,7,01.12.2009,19:35,Al-Ettifaq,Al-Ittihad FC,2,1
+49,10,05.12.2009,19:35,Al Qadisiya,Al-Ettifaq,1,1
+50,10,05.12.2009,19:35,Al-Ittihad FC,Al Ahli SC,2,1
+51,10,04.12.2009,19:35,Al Wehda,Al-Raed,4,1
+52,10,04.12.2009,19:35,Al-Nassr,Al-Fateh,3,1
+53,10,03.12.2009,19:35,Al-Hilal,Al-Shabab,2,2
+54,10,03.12.2009,19:35,Najran,Al-Hazem,2,4
+55,11,10.12.2009,19:35,Al Ahli SC,Al-Fateh,1,1
+56,11,10.12.2009,19:35,Al-Ettifaq,Najran,3,1
+57,11,10.12.2009,19:35,Al-Hilal,Al-Ittihad FC,5,0
+58,11,09.12.2009,19:35,Al Qadisiya,Al-Shabab,0,3
+59,11,09.12.2009,19:35,Al-Hazem,Al Wehda,1,2
+60,11,09.12.2009,19:35,Al-Raed,Al-Nassr,0,0
+61,12,16.12.2009,19:40,Al-Ettifaq,Al Wehda,1,3
+62,12,16.12.2009,19:40,Al-Shabab,Najran,1,0
+63,12,15.12.2009,19:40,Al-Hazem,Al-Nassr,2,2
+64,12,15.12.2009,19:40,Al-Hilal,Al Qadisiya,2,1
+65,12,15.12.2009,19:40,Al-Ittihad FC,Al-Fateh,1,1
+66,12,15.12.2009,19:40,Al-Raed,Al Ahli SC,1,2
+67,13,20.12.2009,19:40,Al Wehda,Al-Shabab,1,1
+68,13,20.12.2009,19:40,Al-Nassr,Al-Ettifaq,1,0
+69,13,20.12.2009,19:40,Najran,Al-Hilal,1,2
+70,13,19.12.2009,19:40,Al Ahli SC,Al-Hazem,2,1
+71,13,19.12.2009,19:40,Al Qadisiya,Al-Ittihad FC,3,3
+72,13,19.12.2009,19:40,Al-Fateh,Al-Raed,2,0
+73,14,25.12.2009,23:15,Al-Shabab,Al-Nassr,3,2
+74,14,25.12.2009,19:40,Al-Ettifaq,Al Ahli SC,0,0
+75,14,24.12.2009,19:40,Al Qadisiya,Najran,1,0
+76,14,24.12.2009,19:40,Al-Ittihad FC,Al-Raed,3,2
+77,14,24.12.2009,15:25,Al-Hazem,Al-Fateh,2,1
+78,14,24.12.2009,15:15,Al-Hilal,Al Wehda,3,1
+79,15,01.01.2010,19:45,Al Ahli SC,Al-Shabab,1,1
+80,15,01.01.2010,19:45,Al Wehda,Al Qadisiya,2,1
+81,15,01.01.2010,19:45,Al-Fateh,Al-Ettifaq,0,3
+82,15,01.01.2010,19:45,Najran,Al-Ittihad FC,2,3
+83,15,01.01.2010,15:25,Al-Raed,Al-Hazem,1,1
+84,15,31.12.2010,15:20,Al-Nassr,Al-Hilal,2,1
+85,16,07.01.2010,19:50,Al-Ettifaq,Al-Raed,3,0
+86,16,07.01.2010,19:50,Al-Hilal,Al Ahli SC,3,1
+87,16,07.01.2010,19:50,Najran,Al Wehda,0,5
+88,16,06.01.2010,19:50,Al Qadisiya,Al-Nassr,0,2
+89,16,06.01.2010,19:50,Al-Ittihad FC,Al-Hazem,5,2
+90,16,06.01.2010,19:50,Al-Shabab,Al-Fateh,2,2
+91,8,10.01.2010,19:50,Al-Ittihad FC,Al-Nassr,1,2
+92,17,14.01.2010,19:55,Al Wehda,Al-Ittihad FC,1,3
+93,17,14.01.2010,19:55,Al-Hazem,Al-Ettifaq,0,2
+94,17,14.01.2010,19:55,Al-Nassr,Najran,3,2
+95,17,13.01.2010,19:55,Al Ahli SC,Al Qadisiya,3,2
+96,17,13.01.2010,19:55,Al-Fateh,Al-Hilal,0,4
+97,17,13.01.2010,19:55,Al-Raed,Al-Shabab,1,1
+98,18,19.01.2010,20:00,Al Wehda,Al-Nassr,0,2
+99,18,19.01.2010,20:00,Al-Hilal,Al-Raed,2,1
+100,18,19.01.2010,20:00,Al-Ittihad FC,Al-Ettifaq,1,1
+101,18,18.01.2010,20:00,Al Qadisiya,Al-Fateh,0,1
+102,18,18.01.2010,20:00,Al-Shabab,Al-Hazem,0,2
+103,18,18.01.2010,20:00,Najran,Al Ahli SC,2,1
+104,19,24.01.2010,20:00,Al-Hazem,Al-Hilal,0,2
+105,19,24.01.2010,20:00,Al-Nassr,Al-Ittihad FC,0,1
+106,19,24.01.2010,20:00,Al-Raed,Al Qadisiya,2,0
+107,19,23.01.2010,20:00,Al Ahli SC,Al Wehda,2,0
+108,19,23.01.2010,20:00,Al-Ettifaq,Al-Shabab,0,0
+109,19,23.01.2010,20:00,Al-Fateh,Najran,0,1
+110,20,30.01.2010,20:10,Al-Nassr,Al Ahli SC,1,1
+111,20,29.01.2010,20:10,Al Qadisiya,Al-Hazem,3,1
+112,20,29.01.2010,20:10,Najran,Al-Raed,0,1
+113,20,28.01.2010,20:10,Al Wehda,Al-Fateh,6,0
+114,20,28.01.2010,20:10,Al-Ittihad FC,Al-Shabab,1,2
+115,20,28.01.2010,20:00,Al-Hilal,Al-Ettifaq,1,0
+116,6,01.02.2010,20:10,Al-Ittihad FC,Al Wehda,2,0
+117,1,25.02.2010,20:20,Al-Nassr,Al-Hazem,1,0
+118,2,04.03.2010,20:30,Al-Hazem,Al Ahli SC,1,1
+119,7,07.03.2010,20:30,Al-Nassr,Al Wehda,1,0
+120,5,08.03.2010,20:20,Al-Raed,Al-Ettifaq,0,0
+121,21,14.03.2010,20:30,Al Ahli SC,Al-Ittihad FC,0,1
+122,21,14.03.2010,20:30,Al-Ettifaq,Al Qadisiya,0,2
+123,21,14.03.2010,20:30,Al-Fateh,Al-Nassr,0,2
+124,21,14.03.2010,20:30,Al-Hazem,Najran,3,1
+125,21,14.03.2010,20:30,Al-Raed,Al Wehda,1,1
+126,21,14.03.2010,20:30,Al-Shabab,Al-Hilal,1,2
+127,22,18.03.2010,20:30,Al Wehda,Al-Hazem,0,0
+128,22,18.03.2010,20:30,Al-Fateh,Al Ahli SC,3,1
+129,22,18.03.2010,20:30,Al-Ittihad FC,Al-Hilal,2,1
+130,22,18.03.2010,20:30,Al-Nassr,Al-Raed,4,2
+131,22,18.03.2010,20:30,Al-Shabab,Al Qadisiya,0,1
+132,22,18.03.2010,20:30,Najran,Al-Ettifaq,3,2
