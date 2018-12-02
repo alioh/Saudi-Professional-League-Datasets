@@ -1,0 +1,183 @@
+matchNo,Round,Date,Time,Team1,Team2,Score1,Score2
+1,1,09.09.2011,20:30,Al-Ittihad FC,Al-Taawon,5,3
+2,1,09.09.2011,20:30,Al-Fateh,Najran,2,2
+3,1,09.09.2011,20:30,Al Qadisiya,Al-Ettifaq,0,1
+4,1,10.09.2011,20:30,Hajer,Al-Hilal,1,2
+5,1,10.09.2011,20:30,Al-Nassr,Al-Raed,1,0
+6,1,10.09.2011,20:30,Al-Faisaly,Al-Shabab,1,3
+7,1,10.09.2011,20:30,Al Ansar,Al Ahli SC,0,1
+8,2,15.09.2011,20:25,Najran,Al-Ettifaq,0,3
+9,2,15.09.2011,20:25,Al-Taawon,Hajer,2,1
+10,2,15.09.2011,20:25,Al-Hilal,Al-Shabab,0,2
+11,2,16.09.2011,20:25,Al-Raed,Al-Faisaly,1,4
+12,2,16.09.2011,20:25,Al Ansar,Al Qadisiya,0,3
+13,2,16.09.2011,20:25,Al Ahli SC,Al-Nassr,2,0
+14,3,20.09.2011,18:20,Al-Ettifaq,Al-Ittihad FC,1,0
+15,3,22.09.2011,20:20,Al-Shabab,Al Qadisiya,1,0
+16,3,22.09.2011,20:20,Al-Fateh,Al-Raed,0,0
+17,3,22.09.2011,20:20,Al-Faisaly,Al-Nassr,1,1
+18,3,23.09.2011,20:20,Hajer,Al Ansar,1,0
+19,3,23.09.2011,20:20,Al-Taawon,Al-Hilal,0,1
+20,3,23.09.2011,20:20,Al Ahli SC,Najran,4,0
+21,4,29.09.2011,20:10,Al-Raed,Al-Shabab,1,2
+22,4,29.09.2011,20:10,Al-Hilal,Al Ahli SC,4,0
+23,4,29.09.2011,20:10,Al-Ettifaq,Hajer,0,0
+24,4,30.09.2011,20:10,Najran,Al-Faisaly,1,1
+25,4,30.09.2011,20:10,Al-Nassr,Al-Fateh,1,2
+26,4,30.09.2011,20:10,Al Qadisiya,Al-Taawon,1,1
+27,4,02.10.2011,20:10,Al-Ittihad FC,Al Ansar,3,2
+28,5,14.10.2011,19:55,Al-Shabab,Al-Ittihad FC,2,2
+29,5,14.10.2011,19:55,Al-Raed,Najran,0,1
+30,5,14.10.2011,19:55,Al-Fateh,Al Qadisiya,1,6
+31,5,14.10.2011,19:55,Al Ansar,Al-Ettifaq,0,2
+32,5,15.10.2011,19:55,Hajer,Al-Nassr,0,3
+33,5,15.10.2011,19:55,Al-Faisaly,Al-Hilal,0,2
+34,5,15.10.2011,19:55,Al Ahli SC,Al-Taawon,4,2
+35,6,20.10.2011,19:50,Najran,Al-Shabab,1,4
+36,6,20.10.2011,19:50,Hajer,Al-Faisaly,1,1
+37,6,20.10.2011,19:50,Al Qadisiya,Al-Hilal,4,5
+38,6,21.10.2011,19:50,Al-Taawon,Al Ansar,2,0
+39,6,21.10.2011,19:50,Al-Nassr,Al-Ettifaq,1,3
+40,6,21.10.2011,19:50,Al-Fateh,Al Ahli SC,2,2
+41,7,28.10.2011,19:50,Al-Shabab,Al-Taawon,1,0
+42,7,28.10.2011,19:50,Al-Raed,Hajer,1,2
+43,7,28.10.2011,19:50,Al-Ettifaq,Al-Fateh,1,0
+44,8,01.11.2011,19:45,Hajer,Al-Fateh,2,4
+45,8,01.11.2011,19:45,Al-Hilal,Al-Raed,2,0
+46,8,01.11.2011,19:45,Al Ahli SC,Al-Ettifaq,0,0
+47,8,02.11.2011,19:45,Al-Taawon,Najran,1,4
+48,8,02.11.2011,19:45,Al-Shabab,Al-Nassr,2,2
+49,8,02.11.2011,19:45,Al-Faisaly,Al Ansar,2,1
+50,8,02.11.2011,19:45,Al Qadisiya,Al-Ittihad FC,0,8
+51,9,18.11.2011,19:35,Al-Raed,Al Qadisiya,1,0
+52,9,18.11.2011,19:35,Al-Ittihad FC,Al-Faisaly,4,2
+53,9,18.11.2011,19:35,Al-Fateh,Al-Shabab,0,1
+54,9,18.11.2011,19:35,Al-Ettifaq,Al-Taawon,5,1
+55,9,19.11.2011,19:35,Hajer,Al Ahli SC,0,2
+56,9,19.11.2011,19:35,Al-Nassr,Najran,3,2
+57,9,19.11.2011,19:35,Al Ansar,Al-Hilal,0,2
+58,2,22.11.2011,19:35,Al-Ittihad FC,Al-Fateh,1,2
+59,10,24.11.2011,19:35,Al-Nassr,Al-Hilal,0,3
+60,10,24.11.2011,19:35,Al-Ettifaq,Al-Raed,1,1
+61,10,25.11.2011,19:35,Al-Shabab,Hajer,6,1
+62,10,25.11.2011,19:35,Al-Faisaly,Al-Taawon,1,1
+63,10,25.11.2011,19:35,Al Ahli SC,Al Qadisiya,2,1
+64,10,26.11.2011,19:35,Najran,Al-Ittihad FC,1,1
+65,10,26.11.2011,19:35,Al-Fateh,Al Ansar,3,0
+66,11,30.11.2011,19:35,Al-Shabab,Al-Ettifaq,1,0
+67,11,30.11.2011,19:35,Al Qadisiya,Al-Faisaly,2,2
+68,11,01.12.2011,15:15,Al-Taawon,Al-Nassr,1,2
+69,11,01.12.2011,19:35,Al-Ittihad FC,Al Ahli SC,1,3
+70,11,02.12.2011,15:05,Al-Hilal,Al-Fateh,3,2
+71,11,02.12.2011,15:15,Al-Raed,Al Ansar,3,2
+72,11,02.12.2011,15:25,Najran,Hajer,1,1
+73,12,08.12.2011,15:05,Al-Nassr,Al-Ittihad FC,1,3
+74,12,08.12.2011,15:35,Al Ansar,Al-Shabab,0,2
+75,12,08.12.2011,19:35,Al Ahli SC,Al-Raed,1,0
+76,12,09.12.2011,15:05,Al-Hilal,Najran,2,1
+77,12,09.12.2011,15:10,Al-Faisaly,Al-Ettifaq,1,4
+78,12,09.12.2011,15:15,Al-Taawon,Al-Fateh,3,3
+79,12,09.12.2011,19:35,Hajer,Al Qadisiya,1,0
+80,13,15.12.2011,14:50,Al-Fateh,Al-Faisaly,2,1
+81,13,15.12.2011,15:35,Najran,Al Ansar,2,1
+82,13,15.12.2011,19:35,Al-Ettifaq,Al-Hilal,2,2
+83,13,16.12.2011,15:05,Al-Shabab,Al Ahli SC,1,1
+84,13,16.12.2011,15:15,Al-Raed,Al-Taawon,2,0
+85,13,16.12.2011,19:35,Al-Ittihad FC,Hajer,7,0
+86,13,16.12.2011,19:35,Al Qadisiya,Al-Nassr,2,1
+87,7,25.12.2011,19:45,Najran,Al Qadisiya,2,2
+88,7,25.12.2011,19:45,Al-Faisaly,Al Ahli SC,0,1
+89,7,25.12.2011,19:45,Al Ansar,Al-Nassr,0,2
+90,7,26.12.2011,19:45,Al-Hilal,Al-Ittihad FC,1,1
+91,14,29.12.2011,19:45,Al-Ettifaq,Al Qadisiya,3,2
+92,14,29.12.2011,19:45,Al Ahli SC,Al Ansar,5,1
+93,14,30.12.2011,15:15,Al-Shabab,Al-Faisaly,1,1
+94,14,30.12.2011,15:25,Al-Raed,Al-Nassr,1,4
+95,14,30.12.2011,15:40,Najran,Al-Fateh,0,0
+96,14,31.12.2011,19:45,Al-Taawon,Al-Ittihad FC,2,1
+97,14,31.12.2011,19:45,Al-Hilal,Hajer,3,1
+98,15,04.01.2012,19:50,Al-Shabab,Al-Hilal,0,0
+99,15,04.01.2012,19:50,Al-Fateh,Al-Ittihad FC,3,2
+100,15,04.01.2012,19:50,Al-Faisaly,Al-Raed,2,1
+101,15,04.01.2012,19:50,Al Qadisiya,Al Ansar,2,1
+102,15,05.01.2012,15:05,Hajer,Al-Taawon,2,1
+103,15,05.01.2012,15:20,Al-Nassr,Al Ahli SC,1,3
+104,15,05.01.2012,19:50,Al-Ettifaq,Najran,3,3
+105,6,08.01.2012,19:50,Al-Ittihad FC,Al-Raed,1,1
+106,16,11.01.2012,19:55,Najran,Al Ahli SC,0,4
+107,16,11.01.2012,19:55,Al-Hilal,Al-Taawon,1,1
+108,16,11.01.2012,19:55,Al Ansar,Hajer,0,2
+109,16,12.01.2012,15:25,Al-Nassr,Al-Faisaly,1,1
+110,16,12.01.2012,15:35,Al-Raed,Al-Fateh,1,2
+111,16,12.01.2012,19:55,Al-Ittihad FC,Al-Ettifaq,0,1
+112,16,12.01.2012,19:55,Al Qadisiya,Al-Shabab,1,2
+113,17,18.01.2012,20:00,Al-Shabab,Al-Raed,3,2
+114,17,18.01.2012,20:00,Al-Fateh,Al-Nassr,0,1
+115,17,18.01.2012,20:00,Al Ansar,Al-Ittihad FC,1,3
+116,17,19.01.2012,15:35,Al-Faisaly,Najran,4,1
+117,17,19.01.2012,15:40,Al-Taawon,Al Qadisiya,2,2
+118,17,19.01.2012,20:00,Hajer,Al-Ettifaq,0,1
+119,17,19.01.2012,20:00,Al Ahli SC,Al-Hilal,1,0
+120,18,01.02.2012,20:10,Najran,Al-Raed,3,1
+121,18,01.02.2012,20:10,Al-Nassr,Hajer,0,0
+122,18,01.02.2012,20:10,Al-Ettifaq,Al Ansar,1,1
+123,18,02.02.2012,15:40,Al-Hilal,Al-Faisaly,2,1
+124,18,02.02.2012,15:50,Al-Taawon,Al Ahli SC,0,2
+125,18,02.02.2012,20:10,Al-Ittihad FC,Al-Shabab,0,2
+126,18,02.02.2012,20:10,Al Qadisiya,Al-Fateh,1,2
+127,19,06.02.2012,20:15,Al-Hilal,Al Qadisiya,3,0
+128,19,06.02.2012,20:15,Al-Ettifaq,Al-Nassr,2,0
+129,19,07.02.2012,20:15,Al-Shabab,Najran,4,0
+130,19,07.02.2012,20:15,Al-Raed,Al-Ittihad FC,2,0
+131,19,07.02.2012,20:15,Al-Faisaly,Hajer,2,2
+132,19,07.02.2012,20:15,Al Ahli SC,Al-Fateh,3,3
+133,19,09.02.2012,20:15,Al Ansar,Al-Taawon,2,1
+134,20,13.02.2012,20:20,Hajer,Al-Raed,0,2
+135,20,13.02.2012,20:20,Al Qadisiya,Najran,0,2
+136,20,13.02.2012,20:20,Al Ahli SC,Al-Faisaly,2,0
+137,20,14.02.2012,20:20,Al-Taawon,Al-Shabab,1,2
+138,20,14.02.2012,20:20,Al-Nassr,Al Ansar,4,1
+139,20,14.02.2012,20:20,Al-Ittihad FC,Al-Hilal,0,2
+140,20,27.02.2012,20:20,Al-Fateh,Al-Ettifaq,2,1
+141,21,02.03.2012,20:25,Al Ansar,Al-Faisaly,2,1
+142,21,03.03.2012,20:25,Najran,Al-Taawon,1,1
+143,21,03.03.2012,20:25,Al-Fateh,Hajer,1,0
+144,21,08.03.2012,20:25,Al-Nassr,Al-Shabab,1,2
+145,21,11.03.2012,20:25,Al-Ittihad FC,Al Qadisiya,1,0
+146,21,12.03.2012,20:25,Al-Raed,Al-Hilal,1,1
+147,21,12.03.2012,20:25,Al-Ettifaq,Al Ahli SC,0,4
+148,22,15.03.2012,20:25,Najran,Al-Nassr,2,1
+149,22,15.03.2012,20:25,Al-Shabab,Al-Fateh,1,0
+150,22,15.03.2012,20:25,Al-Faisaly,Al-Ittihad FC,0,1
+151,22,16.03.2012,20:25,Al-Taawon,Al-Ettifaq,1,0
+152,22,16.03.2012,20:25,Al-Hilal,Al Ansar,6,1
+153,22,16.03.2012,20:25,Al Ahli SC,Hajer,4,3
+154,22,17.03.2012,20:25,Al Qadisiya,Al-Raed,0,1
+155,23,23.03.2012,20:30,Hajer,Al-Shabab,0,1
+156,23,23.03.2012,20:30,Al-Taawon,Al-Faisaly,1,2
+157,23,25.03.2012,20:30,Al-Ittihad FC,Najran,2,2
+158,23,25.03.2012,20:30,Al-Hilal,Al-Nassr,1,0
+159,23,25.03.2012,20:30,Al Qadisiya,Al Ahli SC,0,3
+160,24,29.03.2012,20:30,Al-Fateh,Al-Hilal,0,5
+161,24,29.03.2012,20:30,Al-Ettifaq,Al-Shabab,0,0
+162,24,29.03.2012,20:30,Al Ahli SC,Al-Ittihad FC,0,1
+163,24,31.03.2012,20:30,Hajer,Najran,1,0
+164,24,31.03.2012,20:30,Al-Nassr,Al-Taawon,5,0
+165,24,31.03.2012,20:30,Al Ansar,Al-Raed,0,1
+166,24,01.04.2012,20:30,Al-Faisaly,Al Qadisiya,2,2
+167,23,04.04.2012,20:30,Al Ansar,Al-Fateh,2,1
+168,25,08.04.2012,20:35,Najran,Al-Hilal,0,2
+169,25,08.04.2012,20:35,Al-Shabab,Al Ansar,3,0
+170,25,08.04.2012,20:35,Al-Raed,Al Ahli SC,1,5
+171,25,08.04.2012,20:35,Al-Ittihad FC,Al-Nassr,1,1
+172,25,08.04.2012,20:35,Al-Fateh,Al-Taawon,0,0
+173,25,08.04.2012,20:35,Al-Ettifaq,Al-Faisaly,1,2
+174,25,08.04.2012,20:35,Al Qadisiya,Hajer,1,1
+175,26,13.04.2012,20:40,Al-Taawon,Al-Raed,0,2
+176,26,13.04.2012,20:40,Al-Nassr,Al Qadisiya,3,2
+177,26,13.04.2012,21:30,Hajer,Al-Ittihad FC,0,0
+178,26,14.04.2012,20:40,Al-Hilal,Al-Ettifaq,3,3
+179,26,14.04.2012,20:40,Al Ahli SC,Al-Shabab,1,1
+180,23,18.04.2012,20:40,Al-Raed,Al-Ettifaq,1,2
+181,26,18.04.2012,20:40,Al-Faisaly,Al-Fateh,1,0
+182,26,18.04.2012,20:40,Al Ansar,Najran,1,2
