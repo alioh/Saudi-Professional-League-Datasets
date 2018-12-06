@@ -7,7 +7,7 @@ Football (Soccer) data for Saudi Professional League Since 2000.
 - File name meaning (e.g. SPL-YEAR-YEAR-DATASOURCE )
 - Each file will have the following columns:
 
-| MatchNo | Date | Time | Team1 | Team2 | Score1 | Score2 | Date |
+| MatchNo | Date | Time | Team1 | Team2 | Score1 | Score2 | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |1 | 01.01.2000 | 20:00 | Al-Hilal | Al-Nassr | 2 | 2 | Semi-final |
 

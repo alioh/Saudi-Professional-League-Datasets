@@ -1,0 +1,183 @@
+﻿matchNo,Round,Date,Time,Team1,Team2,Score1,Score2
+1,2,08.08. 2014,20:45,Al-Ittihad FC,Al-Faisaly,2,1
+2,2,08.08.2014,20:45,Al-Hilal,Al Orubah,4,1
+3,1,13.08.2014,20:50,Al-Shoalah,Al-Hilal,1,3
+4,1,13.08.2014,20:50,Al-Ittihad FC,Al-Fateh,1,0
+5,1,15.08.2014,19:40,Al Orubah,Al-Taawon,4,3
+6,1,15.08.2014,20:50,Al-Faisaly,Al-Raed,1,0
+7,1,15.08.2014,21:15,Al-Nassr,Najran,4,1
+8,1,16.08.2014,20:50,Al-Shabab,Al Khaleej,2,0
+9,1,16.08.2014,20:50,Al Ahli SC,Hajer,6,1
+10,2,22.08.2014,18:50,Hajer,Al-Taawon,2,0
+11,2,22.08.2014,18:50,Al Khaleej,Al-Shoalah,1,1
+12,2,23.08.2014,20:45,Najran,Al Ahli SC,1,1
+13,2,23.08.2014,20:45,Al-Raed,Al-Nassr,1,2
+14,2,23.08.2014,20:45,Al-Fateh,Al-Shabab,0,2
+15,3,29.08.2014,18:45,Al-Fateh,Al-Faisaly,1,2
+16,3,29.08.2014,20:40,Al-Shabab,Hajer,2,0
+17,3,30.08.2014,19:25,Al Orubah,Al-Raed,2,1
+18,3,30.08.2014,20:40,Al-Taawon,Najran,0,0
+19,3,30.08.2014,20:40,Al Khaleej,Al-Nassr,0,1
+20,3,31.08.2014,18:55,Al-Shoalah,Al-Ittihad FC,1,3
+21,3,31.08.2014,20:40,Al-Hilal,Al Ahli SC,0,0
+22,4,11.09.2014,18:45,Al-Faisaly,Hajer,2,0
+23,4,11.09.2014,20:25,Al-Raed,Al-Taawon,0,0
+24,4,12.09.2014,20:25,Al-Shabab,Al-Shoalah,2,1
+25,4,12.09.2014,20:25,Al-Ittihad FC,Al Orubah,2,1
+26,4,12.09.2014,20:25,Al-Hilal,Najran,2,1
+27,4,13.09.2014,20:25,Al-Nassr,Al-Fateh,4,2
+28,4,13.09.2014,20:25,Al Ahli SC,Al Khaleej,2,1
+29,5,17.09.2014,18:20,Hajer,Al-Raed,2,1
+30,5,17.09.2014,19:00,Al Orubah,Al-Faisaly,1,1
+31,5,17.09.2014,20:20,Al Ahli SC,Al-Shabab,0,0
+32,5,18.09.2014,20:20,Al-Taawon,Al-Fateh,1,2
+33,5,18.09.2014,20:20,Al-Shoalah,Al-Nassr,1,2
+34,5,19.09.2014,20:20,Najran,Al-Ittihad FC,1,2
+35,5,19.09.2014,20:20,Al-Hilal,Al Khaleej,3,0
+36,6,24.09.2014,20:15,Al-Fateh,Al-Hilal,1,2
+37,6,26.09.2014,20:15,Al-Raed,Al-Ittihad FC,0,1
+38,6,27.09.2014,18:25,Al-Shoalah,Al Ahli SC,0,2
+39,6,27.09.2014,18:30,Al-Faisaly,Al-Taawon,2,2
+40,6,27.09.2014,20:15,Al-Shabab,Najran,2,1
+41,6,28.09.2014,18:10,Al Khaleej,Hajer,2,2
+42,6,28.09.2014,20:15,Al-Nassr,Al Orubah,2,1
+43,7,16.10.2014,17:50,Hajer,Al Orubah,1,0
+44,7,16.10.2014,18:20,Najran,Al-Faisaly,0,1
+45,7,16.10.2014,19:55,Al-Taawon,Al-Shoalah,3,0
+46,7,17.10.2014,17:50,Al-Fateh,Al-Raed,3,2
+47,7,17.10.2014,19:55,Al-Ittihad FC,Al Khaleej,2,1
+48,7,17.10.2014,19:55,Al-Hilal,Al-Shabab,0,1
+49,7,18.10.2014,19:55,Al Ahli SC,Al-Nassr,2,1
+50,8,24.10.2014,17:45,Hajer,Najran,0,3
+51,8,24.10.2014,18:30,Al Orubah,Al Khaleej,2,2
+52,8,24.10.2014,19:50,Al-Faisaly,Al-Shabab,1,3
+53,8,25.10.2014,18:00,Al-Shoalah,Al-Fateh,1,0
+54,8,25.10.2014,19:50,Al-Raed,Al Ahli SC,2,4
+55,8,25.10.2014,20:00,Al-Nassr,Al-Ittihad FC,2,1
+56,9,30.10.2014,17:35,Al Khaleej,Al-Fateh,2,2
+57,9,30.10.2014,19:45,Al-Taawon,Al-Nassr,0,1
+58,9,30.10.2014,19:45,Al-Shabab,Al-Raed,0,0
+59,9,30.10.2014,19:45,Al Ahli SC,Al Orubah,2,0
+60,9,31.10.2014,18:10,Najran,Al-Shoalah,3,1
+61,9,31.10.2014,19:45,Al-Ittihad FC,Hajer,0,1
+62,10,29.11.2014,14:55,Al-Fateh,Najran,2,1
+63,10,29.11.2014,15:05,Al-Shoalah,Al Orubah,0,0
+64,10,29.11.2014,17:50,Al-Raed,Al Khaleej,1,2
+65,10,30.11.2014,19:35,Hajer,Al-Nassr,0,4
+66,10,30.11.2014,19:35,Al-Shabab,Al-Taawon,1,2
+67,10,30.11.2014,19:35,Al Ahli SC,Al-Faisaly,1,1
+68,10,01.12.2014,19:45,Al-Ittihad FC,Al-Hilal,0,0
+69,11,04.12.2014,17:25,Al Khaleej,Najran,0,1
+70,11,04.12.2014,17:45,Al-Shoalah,Hajer,3,1
+71,11,04.12.2014,19:35,Al-Nassr,Al-Faisaly,0,0
+72,11,04.12.2014,19:35,Al-Fateh,Al Ahli SC,0,1
+73,11,05.12.2014,15:20,Al-Taawon,Al-Ittihad FC,4,3
+74,11,05.12.2014,15:30,Al Orubah,Al-Shabab,0,0
+75,11,05.12.2014,19:35,Al-Hilal,Al-Raed,3,1
+76,8,09.12.2014,19:35,Al-Hilal,Al-Taawon,3,1
+77,12,12.12.2014,14:55,Hajer,Al-Fateh,2,1
+78,12,12.12.2014,15:00,Al-Faisaly,Al Khaleej,1,2
+79,12,12.12.2014,19:40,Al-Taawon,Al Ahli SC,1,4
+80,12,12.12.2014,19:40,Al-Ittihad FC,Al-Shabab,0,1
+81,12,13.12.2014,15:05,Al-Raed,Al-Shoalah,1,0
+82,12,13.12.2014,15:30,Najran,Al Orubah,2,0
+83,12,13.12.2014,19:40,Al-Nassr,Al-Hilal,1,0
+84,13,19.12.2014,15:15,Al-Shabab,Al-Nassr,0,3
+85,13,19.12.2014,15:15,Al-Faisaly,Al-Shoalah,0,0
+86,13,19.12.2014,17:30,Hajer,Al-Hilal,1,1
+87,13,19.12.2014,20:15,Al Ahli SC,Al-Ittihad FC,1,1
+88,13,20.12.2014,15:00,Al Khaleej,Al-Taawon,0,3
+89,13,20.12.2014,15:30,Al Orubah,Al-Fateh,1,2
+90,13,21.12.2014,17:55,Al-Raed,Najran,3,2
+91,9,28.01.2015,20:15,Al-Faisaly,Al-Hilal,2,2
+92,14,05.02.2015,16:00,Najran,Al-Nassr,0,4
+93,14,05.02.2015,18:05,Hajer,Al Ahli SC,0,3
+94,14,05.02.2015,20:30,Al Khaleej,Al-Shabab,1,0
+95,14,06.02.2015,18:05,Al-Fateh,Al-Ittihad FC,2,2
+96,14,06.02.2015,20:30,Al-Hilal,Al-Shoalah,2,1
+97,14,07.02.2015,18:30,Al-Raed,Al-Faisaly,2,1
+98,14,08.02.2015,18:30,Al-Taawon,Al Orubah,1,1
+99,15,12.02.2015,18:30,Al-Taawon,Hajer,3,1
+100,15,12.02.2015,18:30,Al-Faisaly,Al-Ittihad FC,0,3
+101,15,12.02.2015,20:30,Al-Shabab,Al-Fateh,2,2
+102,15,14.02.2015,16:05,Al-Shoalah,Al Khaleej,1,1
+103,15,14.02.2015,20:30,Al-Nassr,Al-Raed,2,2
+104,15,17.02.2015,16:05,Al Orubah,Al-Hilal,1,0
+105,16,19.02.2015,16:05,Najran,Al-Taawon,0,1
+106,16,19.02.2015,18:15,Hajer,Al-Shabab,4,4
+107,16,20.02.2015,18:30,Al-Faisaly,Al-Fateh,4,2
+108,16,20.02.2015,20:30,Al-Nassr,Al Khaleej,4,1
+109,16,20.02.2015,20:30,Al-Ittihad FC,Al-Shoalah,3,2
+110,16,21.02.2015,18:35,Al-Raed,Al Orubah,2,1
+111,16,21.02.2015,20:40,Al Ahli SC,Al-Hilal,1,1
+112,17,27.02.2015,16:10,Al Orubah,Al-Ittihad FC,0,1
+113,17,28.02.2015,16:05,Najran,Al-Hilal,0,2
+114,17,28.02.2015,16:05,Al-Shoalah,Al-Shabab,1,2
+115,17,28.02.2015,18:20,Al-Fateh,Al-Nassr,1,1
+116,17,28.02.2015,18:20,Al Khaleej,Al Ahli SC,1,1
+117,17,28.02.2015,20:30,Al-Taawon,Al-Raed,3,1
+118,17,01.03.2015,18:20,Hajer,Al-Faisaly,0,2
+119,18,06.03.2015,18:45,Al-Raed,Hajer,2,1
+120,18,06.03.2015,18:45,Al-Faisaly,Al Orubah,2,0
+121,18,06.03.2015,20:30,Al-Ittihad FC,Najran,2,1
+122,18,07.03.2015,18:25,Al-Fateh,Al-Taawon,2,0
+123,18,07.03.2015,18:25,Al Khaleej,Al-Hilal,0,1
+124,18,07.03.2015,20:30,Al-Nassr,Al-Shoalah,5,0
+125,18,07.03.2015,20:40,Al-Shabab,Al Ahli SC,2,3
+126,15,11.03.2015,20:30,Al Ahli SC,Najran,2,1
+127,19,13.03.2015,16:15,Al Orubah,Al-Nassr,0,2
+128,19,13.03.2015,18:50,Al-Taawon,Al-Faisaly,0,1
+129,19,13.03.2015,20:30,Al-Hilal,Al-Fateh,3,0
+130,19,14.03.2015,18:55,Najran,Al-Shabab,2,1
+131,19,14.03.2015,20:30,Al Ahli SC,Al-Shoalah,3,0
+132,19,15.03.2015,18:30,Hajer,Al Khaleej,1,1
+133,19,15.03.2015,20:35,Al-Ittihad FC,Al-Raed,3,1
+134,20,21.03.2015,16:15,Al Orubah,Hajer,2,3
+135,20,21.03.2015,18:30,Al Khaleej,Al-Ittihad FC,0,1
+136,20,21.03.2015,20:40,Al-Raed,Al-Fateh,2,3
+137,20,22.03.2015,18:45,Al-Shoalah,Al-Taawon,4,3
+138,20,22.03.2015,18:45,Al-Shabab,Al-Hilal,0,1
+139,20,22.03.2015,18:45,Al-Faisaly,Najran,0,1
+140,20,22.03.2015,20:55,Al-Nassr,Al Ahli SC,3,4
+141,21,03.04.2015,18:50,Al-Shabab,Al-Faisaly,2,1
+142,21,03.04.2015,20:45,Al Ahli SC,Al-Raed,1,0
+143,21,04.04.2015,18:40,Al-Fateh,Al-Shoalah,0,0
+144,21,04.04.2015,18:40,Al Khaleej,Al Orubah,2,0
+145,21,04.04.2015,21:00,Al-Taawon,Al-Hilal,0,1
+146,21,04.04.2015,21:10,Al-Ittihad FC,Al-Nassr,1,3
+147,22,09.04.2015,20:30,Hajer,Al-Ittihad FC,0,1
+148,22,10.04.2015,18:55,Al-Shoalah,Najran,2,1
+149,22,11.04.2015,18:40,Al-Fateh,Al Khaleej,2,0
+150,22,11.04.2015,18:55,Al-Nassr,Al-Taawon,2,1
+151,22,11.04.2015,19:00,Al-Raed,Al-Shabab,3,1
+152,22,11.04.2015,19:25,Al Orubah,Al Ahli SC,1,3
+153,22,11.04.2015,21:00,Al-Hilal,Al-Faisaly,3,0
+154,23,17.04.2015,19:00,Al-Nassr,Hajer,3,0
+155,23,17.04.2015,19:05,Al-Taawon,Al-Shabab,1,1
+156,23,17.04.2015,21:10,Al-Hilal,Al-Ittihad FC,3,0
+157,23,18.04.2015,18:45,Al Khaleej,Al-Raed,3,0
+158,23,18.04.2015,19:00,Najran,Al-Fateh,1,1
+159,23,18.04.2015,19:25,Al Orubah,Al-Shoalah,2,0
+160,23,18.04.2015,21:00,Al-Faisaly,Al Ahli SC,1,4
+161,24,25.04.2015,18:50,Hajer,Al-Shoalah,2,1
+162,24,25.04.2015,19:00,Najran,Al Khaleej,1,4
+163,24,26.04.2015,19:00,Al-Shabab,Al Orubah,3,0
+164,24,26.04.2015,21:00,Al-Raed,Al-Hilal,1,1
+165,24,26.04.2015,21:00,Al-Faisaly,Al-Nassr,1,5
+166,24,27.04.2015,21:00,Al-Ittihad FC,Al-Taawon,4,3
+167,24,28.04.2015,20:40,Al Ahli SC,Al-Fateh,5,0
+168,25,10.05.2015,19:00,Al Khaleej,Al-Faisaly,4,2
+169,25,10.05.2015,21:00,Al-Shoalah,Al-Raed,2,2
+170,25,10.05.2015,21:00,Al-Shabab,Al-Ittihad FC,3,4
+171,25,10.05.2015,21:00,Al-Hilal,Al-Nassr,0,1
+172,25,10.05.2015,21:00,Al-Fateh,Hajer,3,1
+173,25,10.05.2015,21:00,Al Orubah,Najran,0,1
+174,25,10.05.2015,21:00,Al Ahli SC,Al-Taawon,2,2
+175,26,14.05.2015,19:15,Najran,Al-Raed,1,2
+176,26,15.05.2015,19:00,Al-Shoalah,Al-Faisaly,2,1
+177,26,15.05.2015,19:00,Al-Fateh,Al Orubah,1,0
+178,26,15.05.2015,19:25,Al-Taawon,Al Khaleej,4,4
+179,26,15.05.2015,21:00,Al-Nassr,Al-Shabab,0,0
+180,26,15.05.2015,21:00,Al-Ittihad FC,Al Ahli SC,1,1
+181,26,15.05.2015,21:00,Al-Hilal,Hajer,5,1
+182,21,18.05.2015,19:15,Najran,Hajer,1,2
